@@ -1,0 +1,11 @@
+D:\Belgeler\Visual Studio 2022\Projects\tariheklecikar\tariheklecikar\bin\Debug\tariheklecikar.exe.config
+D:\Belgeler\Visual Studio 2022\Projects\tariheklecikar\tariheklecikar\bin\Debug\tariheklecikar.exe
+D:\Belgeler\Visual Studio 2022\Projects\tariheklecikar\tariheklecikar\bin\Debug\tariheklecikar.pdb
+D:\Belgeler\Visual Studio 2022\Projects\tariheklecikar\tariheklecikar\obj\Debug\tariheklecikar.csproj.AssemblyReference.cache
+D:\Belgeler\Visual Studio 2022\Projects\tariheklecikar\tariheklecikar\obj\Debug\tariheklecikar.csproj.SuggestedBindingRedirects.cache
+D:\Belgeler\Visual Studio 2022\Projects\tariheklecikar\tariheklecikar\obj\Debug\tariheklecikar.tarihecFrm.resources
+D:\Belgeler\Visual Studio 2022\Projects\tariheklecikar\tariheklecikar\obj\Debug\tariheklecikar.Properties.Resources.resources
+D:\Belgeler\Visual Studio 2022\Projects\tariheklecikar\tariheklecikar\obj\Debug\tariheklecikar.csproj.GenerateResource.cache
+D:\Belgeler\Visual Studio 2022\Projects\tariheklecikar\tariheklecikar\obj\Debug\tariheklecikar.csproj.CoreCompileInputs.cache
+D:\Belgeler\Visual Studio 2022\Projects\tariheklecikar\tariheklecikar\obj\Debug\tariheklecikar.exe
+D:\Belgeler\Visual Studio 2022\Projects\tariheklecikar\tariheklecikar\obj\Debug\tariheklecikar.pdb
